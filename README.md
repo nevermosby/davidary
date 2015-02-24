@@ -1,6 +1,7 @@
 # Davidary
 
 TODO: Write a gem description
+This is my first gem for trying ruby programming.
 
 ## Installation
 
